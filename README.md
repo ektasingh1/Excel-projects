@@ -1,2 +1,2 @@
-# Excel-projects
-## This repository contains all my Excel projects.
+## Excel-projects
+This repository contains all my Excel projects.
